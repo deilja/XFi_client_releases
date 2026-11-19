@@ -15,9 +15,9 @@ XFi Connect — VPN-клиент для Android с поддержкой совр
 
 "Скачать XFi Client 3.7.11 (ARM64-v8a) — APK" (https://github.com/deilja/XFi_client_releases/releases/download/v3.7.11-arm64-20261113/XFi-3.7.11-arm64-v8a-release.apk)
 
+Версия: 3.7.11
 Архитектура: ARM64-v8a
 Формат: APK
-Версия: 3.7.11
 
 Установка
 
@@ -28,7 +28,7 @@ XFi Connect — VPN-клиент для Android с поддержкой совр
 
 Получить ключ и помощь
 
-- Telegram-бот: https://t.me/XFI_BOMZH_BOT
+- Telegram-бот: https://t.me/XFI_VPN_bot
 - Новости и обновления: https://t.me/+bBrN7eaXiMQyMzBi
 
 Поддержка проекта
