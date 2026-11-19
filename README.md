@@ -1,15 +1,38 @@
-# XFi — файлы релизов
+XFi Client 3.7.11 — Android
 
-В этом репозитории публикуются готовые сборки приложения **XFi**: Android APK и версии для Windows. Исходный код приложения хранится в закрытом репозитории — здесь только файлы для скачивания.
+XFi Connect — VPN-клиент для Android с поддержкой современных протоколов подключения.
 
-## Последняя версия — v3.7.9
+Возможности
 
-- [Страница последнего релиза](https://github.com/deilja/XFi_client_releases/releases/latest)
-- Android, большинство телефонов (arm64): https://github.com/deilja/XFi_client_releases/releases/download/v3.7.9/XFi-v3.7.9-arm64.apk
-- Android, старые телефоны (armv7): https://github.com/deilja/XFi_client_releases/releases/download/v3.7.9/XFi-v3.7.9-armv7.apk
-- Windows, установщик (x64): https://github.com/deilja/XFi_client_releases/releases/download/v3.7.9/XFi-v3.7.9-x64-installer.exe
-- Windows, без установки / portable (x64): https://github.com/deilja/XFi_client_releases/releases/download/v3.7.9/XFi-v3.7.9-x64-portable.exe
+- Подключение к VPN-серверам XFi Connect.
+- Доступ к Telegram через VPN.
+- Поддержка протокола Xray.
+- Подключение по персональному ключу.
+- Удобное управление VPN-подключением.
+- Оптимизированная сборка для ARM64-v8a.
 
-Все версии — на странице [Releases](https://github.com/deilja/XFi_client_releases/releases).
+Скачать приложение
 
-Поддержка: Telegram-бот **@INFO_XFI_bot**.
+"Скачать XFi Client 3.7.11 (ARM64-v8a) — APK" (https://github.com/deilja/XFi_client_releases/releases/download/v3.7.11-arm64-20261113/XFi-3.7.11-arm64-v8a-release.apk)
+
+Архитектура: ARM64-v8a
+Формат: APK
+Версия: 3.7.11
+
+Установка
+
+1. Скачайте APK-файл.
+2. Разрешите установку из неизвестных источников, если Android запросит разрешение.
+3. Установите приложение.
+4. Получите персональный ключ подключения через Telegram-бота.
+
+Получить ключ и помощь
+
+- Telegram-бот: https://t.me/XFI_BOMZH_BOT
+- Новости и обновления: https://t.me/+bBrN7eaXiMQyMzBi
+
+Поддержка проекта
+
+Сообщения об ошибках, предложения по улучшению и пожелания по новым функциям приветствуются.
+
+XFi Connect — ваш VPN, ваше подключение.
